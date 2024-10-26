@@ -4,5 +4,6 @@
 #pragma once
 
 #include <iostream>
+#include "CPU.cpp"
 
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
